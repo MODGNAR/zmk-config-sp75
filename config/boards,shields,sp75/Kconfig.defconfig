@@ -1,0 +1,4 @@
+if SHIELD_SOUTHPAW75
+config ZMK_KEYBOARD_NAME
+default "Southpaw75"
+endif

@@ -1,4 +1,4 @@
-if SHIELD_SOUTHPAW75
+if SHIELD_sp75
 config ZMK_KEYBOARD_NAME
 default "Sp75"
 endif

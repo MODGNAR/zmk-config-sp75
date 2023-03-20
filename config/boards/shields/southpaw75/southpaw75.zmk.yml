@@ -1,0 +1,8 @@
+file_format: "1"
+id: southpaw75
+name: southpaw75
+type: shield
+url: https://github.com/Nomeon/zmk-config/tree/master/config/boards/shields/southpaw75
+requires: [pro_micro]
+features:
+  - keys
